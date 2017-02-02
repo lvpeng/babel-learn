@@ -6,6 +6,9 @@
     },
     "loose": true,
     "modules": "commonjs",
-    "debug":true
+    "debug":true,
+    "include": [],
+    "exclude": [],
+    "useBuiltIns": ""
   }]]
 }
